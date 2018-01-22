@@ -5,9 +5,10 @@
 		<address>
 			<street>Downtown Road 3</street>
 			<town>Manchester</town>
+			<zip>M1 1BA</zip>
 		</address>
 	</row>
-	<Row>
+	<row>
 		<name>Smith</name>
 		<surname>Susanna</surname>
 		<address>
@@ -15,5 +16,21 @@
 			<town>Manchester</town>
 			<zip>M1 1BA</zip>
 		</address>
-	</Row>
+	</row>
+	<row>
+		<name>Baggins</name>
+		<surname>Bilbo</surname>
+		<address>
+			<street>Bag End</street>
+			<town>Hobbiton</town>
+	</address>
+</row>
+<row>
+	<name>Baggins</name>
+	<surname>Frodo</surname>
+	<address>
+		<street>Bag End</street>
+		<town>Hobbiton</town>
+	</address>
+</row>
 </data>
