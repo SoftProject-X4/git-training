@@ -7,13 +7,4 @@
 			<town>Manchester</town>
 		</address>
 	</row>
-	<Row>
-		<name>Smith</name>
-		<surname>Susanna</surname>
-		<address>
-			<street>Downtown Road 3</street>
-			<town>Manchester</town>
-			<zip>M1 1BA</zip>
-		</address>
-	</Row>
 </data>
