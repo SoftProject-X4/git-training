@@ -9,15 +9,6 @@
 		</address>
 	</row>
 	<row>
-		<name>Smith</name>
-		<surname>Susanna</surname>
-		<address>
-			<street>Downtown Road 3</street>
-			<town>Manchester</town>
-			<zip>M1 1BA</zip>
-		</address>
-	</row>
-	<row>
 		<name>Baggins</name>
 		<surname>Bilbo</surname>
 		<address>
