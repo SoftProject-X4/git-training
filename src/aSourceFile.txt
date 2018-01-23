@@ -16,6 +16,6 @@ function Dijkstra(Graph, source):
 				dist[v] := alt
 				previous[v] := u
 	return previous[ ]
-Dont Worry 
 Slu was here 
+
 
